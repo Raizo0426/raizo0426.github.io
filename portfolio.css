@@ -1,0 +1,15 @@
+#content{
+    font-family:YuGothic,"游ゴシック","メイリオ",Meiryo,"ヒラギノ角ゴ　PRO W3","Hiragino kaku Gothic Pro",sans-serif;
+    background-image:url("book.jpg");
+    background-position:center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+　　color:#FFF;
+    text-shadow:black 1px 1px 0px, black -1px -1px 0px, black 1px -1px 0px, black -1px -1px 0px;
+    
+    margin:0;
+    padding:0;
+}
+
